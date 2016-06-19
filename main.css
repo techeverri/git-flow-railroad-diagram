@@ -1,0 +1,15 @@
+html, body, div {
+    height: 100%;
+    margin: 0px;
+}
+
+body {
+    background-color: hsl(30, 20%, 95%);
+}
+
+div svg.railroad-diagram {
+    width: 80%;
+    height: 100%;
+    display: block;
+    margin: auto;
+}

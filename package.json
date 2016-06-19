@@ -1,0 +1,11 @@
+{
+  "name": "git-flow-railroad-diagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "author": "Tomas Echeverri Valencia",
+  "license": "MIT",
+  "dependencies": {
+    "railroad-diagrams": "^1.0.0"
+  }
+}
