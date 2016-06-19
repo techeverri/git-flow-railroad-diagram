@@ -5,7 +5,8 @@
     var gitFlowRailroadDiagrams = document.getElementById('git-flow-railroad-diagrams');
 
     Diagram(
-        Terminal('git flow'),
+        Terminal('git'),
+        NonTerminal('flow'),
         Choice(0,
             Terminal('init'),
             Sequence(
